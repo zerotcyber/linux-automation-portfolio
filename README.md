@@ -1,4 +1,5 @@
-# Linux Ultimate Automation Tool
+
+# Linux Automation Tool
 
 ## Description
 This project contains bash scripts to automate daily linux administration tasks:
