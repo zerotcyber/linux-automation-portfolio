@@ -1,4 +1,4 @@
-# Linux System Automation Suite
+# Linux Super-Automation Suite
 
 ## Description
 This project contains bash scripts to automate daily linux administration tasks:
