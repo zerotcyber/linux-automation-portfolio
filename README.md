@@ -10,3 +10,4 @@ This project contains bash scripts to automate daily linux administration tasks:
 ##Usage
 Run the scripts from the 'scripts/' directory with sudo permissions. 
 
+## Maintainer: Chimezie Stanley 
